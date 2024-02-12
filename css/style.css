@@ -451,9 +451,4 @@ footer .credit a {
   html {
     font-size: 55%;
   }
-  .hero {
-    height: 24rem;
-    object-fit: cover;
-    object-position: center;
-  }
 }
